@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerView Sample</string>
+    <string name="add_flower">Ajouter fleur</string>
+    <string name="flower1_name">Rose</string>
+    <string name="flower2_name">fresia</string>
+    <string name="flower3_name">Lily</string>
+    <string name="flower4_name">Tournesol</string>
+    <string name="flower5_name">Pen</string>
+    <string name="flower6_name">oug</string>
+    <string name="flower7_name">oog</string>
+    <string name="flower8_name">ah</string>
+    <string name="flower9_name">kdkd</string>
+    <string name="flower10_name">jejke</string>
+    <string name="flower11_name">jfjf</string>
+    <string name="flower12_name">nfn</string>
+    <string name="flower1_description">gre,gr</string>
+    <string name="flower2_description">refe</string>
+    <string name="flower3_description">reg</string>
+    <string name="flower4_description">reg</string>
+    <string name="flower5_description">reg</string>
+    <string name="flower6_description">reg</string>
+    <string name="flower7_description">reg</string>
+    <string name="flower8_description">gre</string>
+    <string name="flower9_description">reg</string>
+    <string name="flower10_description">reg</string>
+    <string name="flower11_description">rg</string>
+    <string name="flower12_description">reg</string>
+    <string name="flower_string">fev</string>
+    <string name="flower_finder">vef</string>
+    <string name="flower_description_edit_text">vfe</string>
+    <string name="flower_name_edit_text">vdfv</string>
+    <string name="done_button_text">dfbf</string>
+    <string name="flower_image_content_description">dfb</string>
+    <string name="fab_content_description">xbfd</string>
+    <string name="remove_this_flower">fbx</string>
+</resources>
